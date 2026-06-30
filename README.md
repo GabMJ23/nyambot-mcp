@@ -212,3 +212,7 @@ Questions, retours, demande de clé API v2, ou partenariat :
 [MIT](./LICENSE) © 2026 Gabriel Mbenda — un projet [Nyambot.ai](https://nyambot.ai).
 
 Les données proviennent des sources officielles du gouvernement français (licence Etalab ouverte). Nyambot est un service indépendant, non affilié à l'État.
+
+---
+
+`mcp-name: io.github.GabMJ23/nyambot-mcp`
